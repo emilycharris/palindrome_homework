@@ -1,4 +1,5 @@
-#palindrome checker: verify a string is the same spelled frontwards and backwards
+# palindrome checker: verify a string is the same spelled frontwards and backwards
+# extra comment added for class demonstration
 from string import punctuation
 
 word = input("Input a word to see if it's a palindrome: ").lower().replace(" ", "")
